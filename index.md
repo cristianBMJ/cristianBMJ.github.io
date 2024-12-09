@@ -1,19 +1,15 @@
 
 # 👋 Hi, I'm Cristian Martínez  
 
-I am a physicist with a specialization in Data Science and Engineering. My expertise lies in developing and deploying machine learning and deep learning models, including forecasting, clustering, classification, and regression, to solve complex real-world problems.  
-
-In the MLOps domain, I implemented recommendation systems using MLflow and built interactive web applications with Streamlit to enable model experimentation. My experience also includes designing and automating ETL pipelines with Airflow, integrating data into BigQuery, and ensuring code reliability with unit testing (Pytest).  
-
-As a data analyst, I have explored global commodities trading, conducting trade balance evaluations for various countries. I am proficient in Python, C++, and R, with hands-on experience in tools like Git, Docker, Linux, and Emacs. Additionally, I excel in data visualization, utilizing libraries such as Seaborn and Matplotlib, along with platforms like Tableau and Looker.  
+I am a physicist with a specialization in Data Science and Data Engineering.
 
 🚀 Check out my [projects and contributions](https://github.com/cristianBMJ)!  
 
 ## Apps  
-
+* Streamlit*
 ### Task Tracker App: A lightweight web application to track and analyze daily habits and progress.
 - [Task Tracker App](https://task-tracker-app.streamlit.app/)
-- 
+  
 # Projects  
 
 ### 1. **Recommender System**  
