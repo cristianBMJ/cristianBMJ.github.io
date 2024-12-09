@@ -1,8 +1,4 @@
-# Cristian Martínez
 
-  **University of Chile**  
-  *Bachelor’s degree in Physical Sciences*
-  
 # 👋 Hi, I'm Cristian Martínez  
 
 I am a physicist with a specialization in Data Science and Engineering. My expertise lies in developing and deploying machine learning and deep learning models, including forecasting, clustering, classification, and regression, to solve complex real-world problems.  
@@ -55,7 +51,7 @@ Built a flower image classification model using pretrained models (Xception, VGG
 
 ## Apps  
 
-###Task Tracker App: A lightweight web application to track and analyze daily habits and progress.
+### Task Tracker App: A lightweight web application to track and analyze daily habits and progress.
 
 
 
