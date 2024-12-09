@@ -12,8 +12,8 @@ I am a physicist with a specialization in Data Science and Data Engineering.
 **Task Tracker App**: A lightweight web application to track and analyze daily habits and progress.
 - [Task Tracker App](https://task-tracker-app.streamlit.app/)
 
+<iframe width="100%" height="600" src="https://lookerstudio.google.com/s/oe_5i8H4_cU" frameborder="0" style="border:0" allowfullscreen></iframe>
 
-https://task-tracker-app.streamlit.app
 
 
 ## Data Analytics: 
