@@ -12,6 +12,10 @@ I am a physicist with a specialization in Data Science and Data Engineering.
 **Task Tracker App**: A lightweight web application to track and analyze daily habits and progress.
 - [Task Tracker App](https://task-tracker-app.streamlit.app/)
 
+
+https://task-tracker-app.streamlit.app
+
+
 ## Data Analytics: 
 
 Global Commodities Trade Brief analysis over Global Commodities Trade; focus on Trade Balance, Trade average per country and the commodities most commercialization from 1990 to 2016.Global Commodities Trade Brief analysis over Global Commodities Trade; focus on Trade Balance, Trade average per country and the commodities most commercialization from 1990 to 2016.
