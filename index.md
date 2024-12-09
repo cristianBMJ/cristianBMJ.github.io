@@ -4,7 +4,7 @@ I am a physicist with a specialization in Data Science and Data Engineering.
 
 🚀 Check out my [projects and contributions](https://github.com/cristianBMJ)!  
 
-:construction_worker: --->> Page in Building 
+👷--->> Page in Building! 
 
 ## Apps  
 *Streamlit*
