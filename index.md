@@ -11,7 +11,14 @@ I am a physicist with a specialization in Data Science and Data Engineering.
 
 **Task Tracker App**: A lightweight web application to track and analyze daily habits and progress.
 - [Task Tracker App](https://task-tracker-app.streamlit.app/)
+
+## Data Analytics: 
+
+Global Commodities Trade Brief analysis over Global Commodities Trade; focus on Trade Balance, Trade average per country and the commodities most commercialization from 1990 to 2016.Global Commodities Trade Brief analysis over Global Commodities Trade; focus on Trade Balance, Trade average per country and the commodities most commercialization from 1990 to 2016.
+
   
+[Loorker Dashboard]( https://lookerstudio.google.com/s/oe_5i8H4_cU ).
+
 # Projects  
 
 ### 1. **Recommender System**  
@@ -37,16 +44,6 @@ Classified exoplanets using Random Forest and hyperparameter tuning, achieving a
 ### 6. **Classification of Flowers**  
 *Deep Learning | Pretrained | TPU*  
 Built a flower image classification model using pretrained models (Xception, VGG16, DenseNet201) and TPU hardware.  
-
-## Dashboards  
-
-### My Looker Dashboard  
-<iframe width="100%" height="600" src="https://lookerstudio.google.com/embed/u/0/reporting/337678f8-8ace-4915-b44e-515ef1c6f544/page/Ja7VE" frameborder="0" style="border:0" allowfullscreen></iframe>  
-
-## Apps  
-
-### Task Tracker App: A lightweight web application to track and analyze daily habits and progress.
-- [Task Tracker App](https://task-tracker-app.streamlit.app/)  
 
 
 ## Skills  
