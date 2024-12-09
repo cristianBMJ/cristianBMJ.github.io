@@ -7,6 +7,7 @@ I am a physicist with a specialization in Data Science and Data Engineering.
 
 ## Apps  
 *Streamlit*
+
 **Task Tracker App**: A lightweight web application to track and analyze daily habits and progress.
 - [Task Tracker App](https://task-tracker-app.streamlit.app/)
   
