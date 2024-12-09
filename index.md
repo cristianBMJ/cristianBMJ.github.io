@@ -1,5 +1,4 @@
 
-# 👋 Hi, I'm Cristian Martínez  
 
 I am a physicist with a specialization in Data Science and Data Engineering.
 
