@@ -1,4 +1,5 @@
-# Cristian Martínez - Data Scientist
+# Cristian Martínez
+
   **University of Chile**  
   *Bachelor’s degree in Physical Sciences*
   
