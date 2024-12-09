@@ -2,9 +2,7 @@
 
 I am a physicist with a specialization in Data Science and Data Engineering.
 
-🚀 Check out my [projects and contributions](https://github.com/cristianBMJ)!  
 
-👷 Page in Building...
 
 ## Apps  
 
@@ -62,3 +60,8 @@ Built a flower image classification model using pretrained models (Xception, VGG
 - Quantum Study of Solitons in a Disordered Nonlinear Medium  
 - Analysis of the Probability Distribution of Eigenvalues in Random Matrices  
 
+------------- 
+
+🚀 Check out my [projects and contributions](https://github.com/cristianBMJ)!  
+
+👷 Page in Building...
