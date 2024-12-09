@@ -4,7 +4,7 @@ I am a physicist with a specialization in Data Science and Data Engineering.
 
 🚀 Check out my [projects and contributions](https://github.com/cristianBMJ)!  
 
-👷--->> Page in Building! 
+👷--->> Page in Building! =)
 
 ## Apps  
 *Streamlit*
@@ -20,6 +20,7 @@ I am a physicist with a specialization in Data Science and Data Engineering.
 
 Global Commodities Trade Brief analysis over Global Commodities Trade; focus on Trade Balance, Trade average per country and the commodities most commercialization from 1990 to 2016.Global Commodities Trade Brief analysis over Global Commodities Trade; focus on Trade Balance, Trade average per country and the commodities most commercialization from 1990 to 2016.
 
+<iframe width="600" height="450" src="https://lookerstudio.google.com/embed/reporting/2f761cb7-6845-4785-a4cc-d54072ebd461/page/loXmD" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
   
 [Loorker Dashboard]( https://lookerstudio.google.com/s/oe_5i8H4_cU ).
 
