@@ -9,16 +9,12 @@ As a data analyst, I have explored global commodities trading, conducting trade 
 
 🚀 Check out my [projects and contributions](https://github.com/cristianBMJ)!  
 
-## Skills  
-- **Technical Skills:** MLops, Streamlit, LightGBM, Airflow, ETL, etc.  
-- **Soft Skills:** Problem Solving, Agile Methodologies (Kanban), Effective Communication  
-- **Languages:** Spanish (Native), English (B2)  
+## Apps  
 
-## Research  
-- Quantum Study of Solitons in a Disordered Nonlinear Medium  
-- Analysis of the Probability Distribution of Eigenvalues in Random Matrices  
-
-## Projects  
+### Task Tracker App: A lightweight web application to track and analyze daily habits and progress.
+- [Task Tracker App](https://task-tracker-app.streamlit.app/)
+- 
+# Projects  
 
 ### 1. **Recommender System**  
 *MLops | MLflow | Streamlit*  
@@ -52,8 +48,15 @@ Built a flower image classification model using pretrained models (Xception, VGG
 ## Apps  
 
 ### Task Tracker App: A lightweight web application to track and analyze daily habits and progress.
-
-
-
 - [Task Tracker App](https://task-tracker-app.streamlit.app/)  
+
+
+## Skills  
+- **Technical Skills:** MLops, Streamlit, LightGBM, Airflow, ETL, etc.  
+- **Soft Skills:** Problem Solving, Agile Methodologies (Kanban), Effective Communication  
+- **Languages:** Spanish (Native), English (B2)  
+
+## Research  
+- Quantum Study of Solitons in a Disordered Nonlinear Medium  
+- Analysis of the Probability Distribution of Eigenvalues in Random Matrices  
 
