@@ -8,6 +8,12 @@ Cristian Martínez Briones
 
 I am an AI and Data Science professional with a background in Physics and experience in developing machine learning models, data pipelines, and analytics solutions.
 
+ANNOUNCEMENT 📢: Collaboration
+
+I am available to collaborate with startups needing support in Data Science and Data Analysis projects.
+
+If you're interested in working together, feel free to send me a direct message or email me at cristianj3006@gmail.com.
+
 ## Apps  
 
 
