@@ -76,3 +76,14 @@ Built a flower image classification model using pretrained models (Xception, VGG
 🚀 Check out my [projects and contributions](https://github.com/cristianBMJ)!  
 
 👷 Page in Building...
+
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-3GE5FN35QK"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-3GE5FN35QK');
+</script>
