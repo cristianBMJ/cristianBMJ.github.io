@@ -1,5 +1,7 @@
 Cristian Martínez Briones
+
 📍 Santiago, Chile | ✉️ cristianj3006@gmail.com | 📱 (+569)-77427120
+
 🌐 [LinkedIn](https://www.linkedin.com/in/cristianbmj/) | [GitHub](https://github.com/cristianBMJ)
 
 About Me
