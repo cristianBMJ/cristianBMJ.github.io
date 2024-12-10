@@ -12,17 +12,12 @@ I am an AI and Data Science professional with a background in Physics and experi
 
 
 ### **Task Tracker App** 
-*Streamlit* 
+*Streamlit* |
 A lightweight web application to track and analyze daily habits and progress.
 
-[Task Tracker App](https://task-tracker-app.streamlit.app/)
+Check out here [Task Tracker App](https://task-tracker-app.streamlit.app/)
 
-## **Task Tracker App**
 
-<iframe width="100%" height="600" 
-        src="https://task-tracker-app.streamlit.app/" 
-        frameborder="0" style="border:0" allowfullscreen>
-</iframe>
   
 
 ## Data Analytics: 
