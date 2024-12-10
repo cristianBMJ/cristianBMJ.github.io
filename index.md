@@ -8,7 +8,7 @@ Cristian Martínez Briones
 
 Physicist by training with a specialization in Data Science and Data Analytics.
 
-📢*ANNOUNCEMENT : Collaboration*
+📢 *ANNOUNCEMENT : Collaboration*
 
 I am available to collaborate with startups needing support in Data Science and Data Analysis projects.
 
