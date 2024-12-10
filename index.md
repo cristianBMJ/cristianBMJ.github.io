@@ -6,7 +6,7 @@ Cristian Martínez Briones
 
 # About Me
 
-I am an AI and Data Science professional with a background in Physics and experience in developing machine learning models, data pipelines, and analytics solutions.
+Physicist by training with a specialization in Data Science and Data Analytics.
 
 ANNOUNCEMENT 📢: Collaboration
 
