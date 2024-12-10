@@ -1,14 +1,15 @@
+Cristian Martínez Briones
+📍 Santiago, Chile | ✉️ cristianj3006@gmail.com | 📱 (+569)-77427120
+🌐 [LinkedIn](https://www.linkedin.com/in/cristianbmj/) | [GitHub](https://github.com/cristianBMJ)
 
-
-I am a physicist with a specialization in Data Science and Data Engineering.
-
-
+About Me
+I am an AI and Data Science professional with a background in Physics and experience in developing machine learning models, data pipelines, and analytics solutions.
 
 ## Apps  
 
 
-### **Task Tracker App** *Streamlit*
-
+### **Task Tracker App** 
+*Streamlit*
 A lightweight web application to track and analyze daily habits and progress.
 - [Task Tracker App](https://task-tracker-app.streamlit.app/)
 
