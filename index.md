@@ -4,7 +4,8 @@ Cristian Martínez Briones
 
 🌐 [LinkedIn](https://www.linkedin.com/in/cristianbmj/) | [GitHub](https://github.com/cristianBMJ)
 
-About Me
+# About Me
+
 I am an AI and Data Science professional with a background in Physics and experience in developing machine learning models, data pipelines, and analytics solutions.
 
 ## Apps  
