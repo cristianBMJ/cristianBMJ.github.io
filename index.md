@@ -2,7 +2,7 @@ Cristian Martínez Briones
 
 📍 Santiago, Chile | ✉️ cristianj3006@gmail.com | 📱 (+569)-77427120
 
-🌐 [LinkedIn](https://www.linkedin.com/in/cristianbmj/) | [GitHub](https://github.com/cristianBMJ)
+🌐 [LinkedIn](https://www.linkedin.com/in/cristianbmj/) | [GitHub](https://github.com/cristianBMJ) | [Class of physics](https://www.classgap.com/es-cl/tutor/cris-martinez)
 
 # About Me
 
