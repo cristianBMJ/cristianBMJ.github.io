@@ -37,7 +37,7 @@ Global Commodities Trade Brief analysis over Global Commodities Trade; focus on 
 
 # Projects  
 
-### **Recommender System**  
+### [**Recommender System**](https://github.com/cristianBMJ/Recommendation_System_MLflow)  
 *MLops | MLflow | Streamlit*  
 Developed a recommender system using filtering techniques on Amazon’s dataset. Experiments managed with MLflow and a web app built in Streamlit for user interaction.  
 
