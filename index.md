@@ -29,7 +29,7 @@ Check out and use it 😉 here: [Task Tracker App](https://task-tracker-app.stre
 
 # Data Analytics: 
 
-Global Commodities Trade Brief analysis over Global Commodities Trade; focus on Trade Balance, Trade average per country and the commodities most commercialization from 1990 to 2016.
+[Global Commodities](global-commodity-trade-until2016.ipynb) Trade Brief analysis over Global Commodities Trade; focus on Trade Balance, Trade average per country and the commodities most commercialization from 1990 to 2016.
 
 <iframe width="90%" height="650" src="https://lookerstudio.google.com/embed/reporting/2f761cb7-6845-4785-a4cc-d54072ebd461/page/loXmD" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
   
@@ -41,23 +41,23 @@ Global Commodities Trade Brief analysis over Global Commodities Trade; focus on 
 *MLops | MLflow | Streamlit*  
 Developed a recommender system using filtering techniques on Amazon’s dataset. Experiments managed with MLflow and a web app built in Streamlit for user interaction.  
 
-### **ETL Process**  
+### [**ETL Process**](https://github.com/cristianBMJ/Process_ETL)  
 *BigQuery | Airflow | Testing*  
 Implemented an ETL pipeline to extract data from a fake API, transform it, and load it into BigQuery using Airflow. Incorporated Agile methodologies, testing, and version control.  
 
-### **Product Sales Projection**  
+### [**Product Sales Projection**](https://github.com/cristianBMJ/Data_Science_Projects/blob/main/forecasting-store-salesPB.ipynb)  
 *Machine Learning | Time Series | LightGBM*  
 Developed a sales prediction model, achieving a 6% accuracy improvement, enhancing inventory planning for an agricultural company.  
 
-### **Forecasting Store Sales of Drinks**  
+### [**Forecasting Store Sales of Drinks**](https://github.com/cristianBMJ/Data_Science_Projects/blob/main/pronostico_ventas_bebidas.ipynb)  
 *Machine Learning | Time Series*  
 Predicted daily beverage sales for February 2022 using a RandomForestRegressor, improving RMSE by 11.3%.  
 
-### **Discovering Exoplanets**  
+### [**Discovering Exoplanets**](https://github.com/cristianBMJ/Data_Science_Projects/blob/main/DiscoveryExoplanets.ipynb)  
 *Machine Learning*  
 Classified exoplanets using Random Forest and hyperparameter tuning, achieving an F1 score of 74.65%.  
 
-### **Classification of Flowers**  
+### [**Classification of Flowers**](https://github.com/cristianBMJ/PortfolioDataScience/blob/main/petals-to-the-metal.ipynb)  
 *Deep Learning | Pretrained | TPU*  
 Built a flower image classification model using pretrained models (Xception, VGG16, DenseNet201) and TPU hardware.  
 
