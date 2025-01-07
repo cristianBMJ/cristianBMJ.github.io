@@ -17,12 +17,12 @@ If you're interested in working together, feel free to send me a direct message 
 ## Apps  
 
 
-### **Task Tracker App** 
+### [**Task Tracker App**](https://task-tracker-app.streamlit.app/)) 
 *Streamlit*
 
 A lightweight web application to track and analyze daily habits and progress.
 
-Check out and use it 😉 here: [Task Tracker App](https://task-tracker-app.streamlit.app/)
+Check out and use it 😉 [HERE](https://task-tracker-app.streamlit.app/) (version beta)
 
 
   
