@@ -4,7 +4,7 @@ Cristian Martínez Briones
 
 🌐 [LinkedIn](https://www.linkedin.com/in/cristianbmj/) | [GitHub](https://github.com/cristianBMJ) | [Class of Physics](https://www.classgap.com/es-cl/tutor/cris-martinez)
 
-# About Me
+# **About Me**
 
 Physicist by training with a specialization in Data Science and Data Analytics.
 
@@ -14,26 +14,39 @@ I am available to collaborate with startups needing support in Data Science and 
 
 If you're interested in working together, feel free to send me a direct message or email me at cristianj3006@gmail.com.
 
-## Apps  
+## **Apps**  
 
 
-### [**Task Tracker App**](https://task-tracker-app.streamlit.app/) 
+### [*Task Tracker App*](https://task-tracker-app.streamlit.app/) 
 *Streamlit*
 
 A lightweight web application to track and analyze daily habits and progress.
 
 Check out and use it 😉 [HERE](https://task-tracker-app.streamlit.app/) (version beta)
 
+ 
 
-  
+# **Data Analytics** 
 
-# Data Analytics: 
+## [*Global Commodities Trade*](https://github.com/cristianBMJ/Data_Analysis_Projects/blob/main/global-commodity-trade-until2016.ipynb)
 
-[Global Commodities](https://github.com/cristianBMJ/Data_Analysis_Projects/blob/main/global-commodity-trade-until2016.ipynb) Trade Brief analysis over Global Commodities Trade; focus on Trade Balance, Trade average per country and the commodities most commercialization from 1990 to 2016.
+Brief analysis over Global Commodities Trade; focus on Trade Balance, Trade average per country and the commodities most commercialization from 1990 to 2016.
 
 <iframe width="90%" height="650" src="https://lookerstudio.google.com/embed/reporting/2f761cb7-6845-4785-a4cc-d54072ebd461/page/loXmD" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
   
 [Check out Dashboard]( https://lookerstudio.google.com/s/oe_5i8H4_cU ).
+
+## *E-commerce Purchasing Patterns Analysis*
+
+This [project](https://github.com/cristianBMJ/Data_Analysis_Projects/blob/main/analyzing-purchasing-patterns.ipynb) analyzes real-world e-commerce data to uncover customer behavior, purchasing patterns, and product trends. Using a dataset of 2.7M events, including views, add-to-carts, and transactions, it provides insights to optimize marketing strategies and inventory management.
+
+Dataset Highlights
+
+- Events: 2.66M views, 69K add-to-carts, 22K transactions.
+- Users: 1.4M unique visitors.
+- Products: 417K unique items.
+- The analysis focuses on identifying anomalies, popular products, and customer journeys to support decision-making in e-commerce operations.
+
 
 # Projects  
 
