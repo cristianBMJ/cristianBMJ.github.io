@@ -1,7 +1,8 @@
 📍 Santiago, Chile | ✉️ cristianj3006@gmail.com | 📱 (+569)-77427120
 
 
-# **About Me** 🌐 [LinkedIn](https://www.linkedin.com/in/cristianbmj/) | [GitHub](https://github.com/cristianBMJ) | [Class of Physics](https://www.classgap.com/es-cl/tutor/cris-martinez)
+# **About Me**
+🌐 [LinkedIn](https://www.linkedin.com/in/cristianbmj/) | [GitHub](https://github.com/cristianBMJ) | [Class of Physics](https://www.classgap.com/es-cl/tutor/cris-martinez)
 
 
 Physicist by training with a specialization in Data Science and Data Analytics.
@@ -12,7 +13,7 @@ I am available to collaborate with startups needing support in Data Science and 
 
 If you're interested in working together, feel free to send me a direct message or email me at cristianj3006@gmail.com.
 
-# **Apps**  
+# *Apps* 
 
 
 ### [*Task Tracker App*](https://task-tracker-app.streamlit.app/) 
@@ -24,7 +25,7 @@ Check out and use it 😉 [HERE](https://task-tracker-app.streamlit.app/) (versi
 
  
 
-# **Data Analytics** 
+# *Data Analytics* 
 
 ## [*Global Commodities Trade*](https://github.com/cristianBMJ/Data_Analysis_Projects/blob/main/global-commodity-trade-until2016.ipynb)
 
