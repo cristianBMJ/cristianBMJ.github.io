@@ -1,3 +1,5 @@
+
+
 # **About Me**
 🌐 [LinkedIn](https://www.linkedin.com/in/cristianbmj/) | [GitHub](https://github.com/cristianBMJ) | [Class of Physics](https://www.classgap.com/es-cl/tutor/cris-martinez)
 
@@ -64,7 +66,7 @@ Built a flower image classification model using pretrained models (Xception, VGG
 
 
 ## **Skills**  
-- **Technical Skills:** MLops, Streamlit, LightGBM, Airflow, ETL, etc.  
+- **Technical Skills:** MLops, Streamlit, LightGBM, Airflow, ETL, Docker, Looker Studio etc.  
 - **Soft Skills:** Problem Solving, Agile Methodologies (Kanban), Effective Communication  
 - **Languages:** Spanish (Native), English (B2)  
 
