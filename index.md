@@ -5,13 +5,9 @@
 🌐 [LinkedIn](https://www.linkedin.com/in/cristianbmj/) | [GitHub](https://github.com/cristianBMJ) | [Class of Physics](https://www.classgap.com/es-cl/tutor/cris-martinez)
 
 
-Physicist by training with a specialization in Data Science and Data Analytics.
+Physicist with a specialization in Data Science and Data Analytics.
 
-📢 *ANNOUNCEMENT : Collaboration*
-
-I am available to collaborate with startups needing support in Data Science and Data Analysis projects.
-
-If you're interested in working together, feel free to send me a direct message or email me at cristianj3006@gmail.com.
+---------
 
 # *Apps* 
 
@@ -23,8 +19,7 @@ A lightweight web application to track and analyze daily habits and progress.
 
 Check out and use it 😉 [HERE](https://task-tracker-app.streamlit.app/) (version beta)
 
- 
-
+---------
 # *Data Analytics* 
 
 ## [*Global Commodities Trade*](https://github.com/cristianBMJ/Data_Analysis_Projects/blob/main/global-commodity-trade-until2016.ipynb)
@@ -46,7 +41,7 @@ Dataset Highlights
 - Products: 417K unique items.
 - The analysis focuses on identifying anomalies, popular products, and customer journeys to support decision-making in e-commerce operations.
 
-
+---------
 # *Data Science Projects*  
 
 ### [*Recommender System*](https://github.com/cristianBMJ/Recommendation_System_MLflow)  
@@ -82,6 +77,13 @@ Built a flower image classification model using pretrained models (Xception, VGG
 ## **Research**  
 - Quantum Study of Solitons in a Disordered Nonlinear Medium  
 - Analysis of the Probability Distribution of Eigenvalues in Random Matrices  
+
+-------------
+📢 *ANNOUNCEMENT : Collaboration*
+
+I am available to collaborate with startups needing support in Data Science and Data Analysis projects.
+
+If you're interested in working together, feel free to send me a direct message or email me at cristianj3006@gmail.com.
 
 ------------- 
 
