@@ -1,5 +1,3 @@
-Cristian Martínez Briones
-
 📍 Santiago, Chile | ✉️ cristianj3006@gmail.com | 📱 (+569)-77427120
 
 🌐 [LinkedIn](https://www.linkedin.com/in/cristianbmj/) | [GitHub](https://github.com/cristianBMJ) | [Class of Physics](https://www.classgap.com/es-cl/tutor/cris-martinez)
@@ -14,7 +12,7 @@ I am available to collaborate with startups needing support in Data Science and 
 
 If you're interested in working together, feel free to send me a direct message or email me at cristianj3006@gmail.com.
 
-## **Apps**  
+# **Apps**  
 
 
 ### [*Task Tracker App*](https://task-tracker-app.streamlit.app/) 
@@ -36,9 +34,9 @@ Brief analysis over Global Commodities Trade; focus on Trade Balance, Trade aver
   
 [Check out Dashboard]( https://lookerstudio.google.com/s/oe_5i8H4_cU ).
 
-## *E-commerce Purchasing Patterns Analysis*
+## [*E-commerce Purchasing Patterns Analysis*](https://github.com/cristianBMJ/Data_Analysis_Projects/blob/main/analyzing-purchasing-patterns.ipynb)
 
-This [project](https://github.com/cristianBMJ/Data_Analysis_Projects/blob/main/analyzing-purchasing-patterns.ipynb) analyzes real-world e-commerce data to uncover customer behavior, purchasing patterns, and product trends. Using a dataset of 2.7M events, including views, add-to-carts, and transactions, it provides insights to optimize marketing strategies and inventory management.
+This project analyzes real-world e-commerce data to uncover customer behavior, purchasing patterns, and product trends. Using a dataset of 2.7M events, including views, add-to-carts, and transactions, it provides insights to optimize marketing strategies and inventory management.
 
 Dataset Highlights
 
@@ -48,39 +46,39 @@ Dataset Highlights
 - The analysis focuses on identifying anomalies, popular products, and customer journeys to support decision-making in e-commerce operations.
 
 
-# Projects  
+# *Data Science Projects*  
 
-### [**Recommender System**](https://github.com/cristianBMJ/Recommendation_System_MLflow)  
+### [*Recommender System*](https://github.com/cristianBMJ/Recommendation_System_MLflow)  
 *MLops | MLflow | Streamlit*  
 Developed a recommender system using filtering techniques on Amazon’s dataset. Experiments managed with MLflow and a web app built in Streamlit for user interaction.  
 
-### [**ETL Process**](https://github.com/cristianBMJ/Process_ETL)  
+### [*ETL Process*](https://github.com/cristianBMJ/Process_ETL)  
 *BigQuery | Airflow | Testing*  
 Implemented an ETL pipeline to extract data from a fake API, transform it, and load it into BigQuery using Airflow. Incorporated Agile methodologies, testing, and version control.  
 
-### [**Product Sales Projection**](https://github.com/cristianBMJ/Data_Science_Projects/blob/main/forecasting-store-salesPB.ipynb)  
+### [*Product Sales Projection*](https://github.com/cristianBMJ/Data_Science_Projects/blob/main/forecasting-store-salesPB.ipynb)  
 *Machine Learning | Time Series | LightGBM*  
 Developed a sales prediction model, achieving a 6% accuracy improvement, enhancing inventory planning for an agricultural company.  
 
-### [**Forecasting Store Sales of Drinks**](https://github.com/cristianBMJ/Data_Science_Projects/blob/main/pronostico_ventas_bebidas.ipynb)  
+### [*Forecasting Store Sales of Drinks*](https://github.com/cristianBMJ/Data_Science_Projects/blob/main/pronostico_ventas_bebidas.ipynb)  
 *Machine Learning | Time Series*  
 Predicted daily beverage sales for February 2022 using a RandomForestRegressor, improving RMSE by 11.3%.  
 
-### [**Discovering Exoplanets**](https://github.com/cristianBMJ/Data_Science_Projects/blob/main/DiscoveryExoplanets.ipynb)  
+### [*Discovering Exoplanets*](https://github.com/cristianBMJ/Data_Science_Projects/blob/main/DiscoveryExoplanets.ipynb)  
 *Machine Learning*  
 Classified exoplanets using Random Forest and hyperparameter tuning, achieving an F1 score of 74.65%.  
 
-### [**Classification of Flowers**](https://github.com/cristianBMJ/PortfolioDataScience/blob/main/petals-to-the-metal.ipynb)  
+### [*Classification of Flowers*](https://github.com/cristianBMJ/PortfolioDataScience/blob/main/petals-to-the-metal.ipynb)  
 *Deep Learning | Pretrained | TPU*  
 Built a flower image classification model using pretrained models (Xception, VGG16, DenseNet201) and TPU hardware.  
 
 
-## Skills  
+## **Skills**  
 - **Technical Skills:** MLops, Streamlit, LightGBM, Airflow, ETL, etc.  
 - **Soft Skills:** Problem Solving, Agile Methodologies (Kanban), Effective Communication  
 - **Languages:** Spanish (Native), English (B2)  
 
-## Research  
+## **Research**  
 - Quantum Study of Solitons in a Disordered Nonlinear Medium  
 - Analysis of the Probability Distribution of Eigenvalues in Random Matrices  
 
