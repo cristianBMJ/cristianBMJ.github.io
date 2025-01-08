@@ -65,7 +65,7 @@ Built a flower image classification model using pretrained models (Xception, VGG
 
 
 ## **Skills**  
-- **Technical Skills:** MLops, Streamlit, LightGBM, Airflow, ETL, Docker, Looker Studio etc.  
+- **Technical Skills:** MLops, Streamlit, LightGBM, Airflow, ETL, Docker,etc.  
 - **Soft Skills:** Problem Solving, Agile Methodologies (Kanban), Effective Communication  
 - **Languages:** Spanish (Native), English (B2)  
 
