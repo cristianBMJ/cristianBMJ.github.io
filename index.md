@@ -1,8 +1,8 @@
 📍 Santiago, Chile | ✉️ cristianj3006@gmail.com | 📱 (+569)-77427120
 
-🌐 [LinkedIn](https://www.linkedin.com/in/cristianbmj/) | [GitHub](https://github.com/cristianBMJ) | [Class of Physics](https://www.classgap.com/es-cl/tutor/cris-martinez)
 
-# **About Me**
+# **About Me** 🌐 [LinkedIn](https://www.linkedin.com/in/cristianbmj/) | [GitHub](https://github.com/cristianBMJ) | [Class of Physics](https://www.classgap.com/es-cl/tutor/cris-martinez)
+
 
 Physicist by training with a specialization in Data Science and Data Analytics.
 
