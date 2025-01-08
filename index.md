@@ -1,10 +1,7 @@
 # **About Me**
 🌐 [LinkedIn](https://www.linkedin.com/in/cristianbmj/) | [GitHub](https://github.com/cristianBMJ) | [Class of Physics](https://www.classgap.com/es-cl/tutor/cris-martinez)
 
-
 Physicist with a specialization in Data Science and Data Analytics.
-
----------
 
 # *Apps* 
 
