@@ -25,6 +25,9 @@ Machine Learning model to predict Turbine Energy Yield (TEY) based on operationa
 *MLops | MLflow | Streamlit*  
 Developed a recommender system using filtering techniques on Amazon’s dataset. Experiments managed with MLflow and a web app built in Streamlit for user interaction.  
 
+### [*ETL Process*](https://github.com/cristianBMJ/Process_ETL)  
+*BigQuery | Airflow | Testing*  
+Implemented an ETL pipeline to extract data from a fake API, transform it, and load it into BigQuery using Airflow. Incorporated Agile methodologies, testing, and version control.  
 
 ---------
 # *Data Analytics* 
@@ -50,11 +53,6 @@ Dataset Highlights
 
 ---------
 # *Data Science Projects*  
-
-
-### [*ETL Process*](https://github.com/cristianBMJ/Process_ETL)  
-*BigQuery | Airflow | Testing*  
-Implemented an ETL pipeline to extract data from a fake API, transform it, and load it into BigQuery using Airflow. Incorporated Agile methodologies, testing, and version control.  
 
 ### [*Product Sales Projection*](https://github.com/cristianBMJ/Data_Science_Projects/blob/main/forecasting-store-salesPB.ipynb)  
 *Machine Learning | Time Series | LightGBM*  
