@@ -27,7 +27,7 @@ Developed a recommender system using filtering techniques on Amazon’s dataset.
 
 ### [*ETL Process*](https://github.com/cristianBMJ/Process_ETL)  
 *BigQuery | Airflow | Testing*  
-Implemented an ETL pipeline to extract data from a fake API, transform it, and load it into BigQuery using Airflow. Incorporated Agile methodologies, testing, and version control.  
+Implemented an ETL pipeline to extract data from a API, transform it, and load it into BigQuery using Airflow. Incorporated Agile methodologies, testing, and version control.  
 
 ---------
 # *Data Analytics* 
