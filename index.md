@@ -14,6 +14,18 @@ A lightweight web application to track and analyze daily habits and progress.
 
 Check out and use it 😉 [HERE](https://task-tracker-app.streamlit.app/) (version beta)
 
+# *Machine Learning Engineer*
+
+### [*MLops Turbine Energy*](https://github.com/cristianBMJ/mlops-turbine-energy)  
+*MLops | MLflow | flask API | Streamlit*  
+Machine Learning model to predict Turbine Energy Yield (TEY) based on operational data. It features an interactive Streamlit and an API that serves the best-performing model tracked in MLflow.
+
+
+### [*Recommender System*](https://github.com/cristianBMJ/Recommendation_System_MLflow)  
+*MLops | MLflow | Streamlit*  
+Developed a recommender system using filtering techniques on Amazon’s dataset. Experiments managed with MLflow and a web app built in Streamlit for user interaction.  
+
+
 ---------
 # *Data Analytics* 
 
@@ -39,9 +51,6 @@ Dataset Highlights
 ---------
 # *Data Science Projects*  
 
-### [*Recommender System*](https://github.com/cristianBMJ/Recommendation_System_MLflow)  
-*MLops | MLflow | Streamlit*  
-Developed a recommender system using filtering techniques on Amazon’s dataset. Experiments managed with MLflow and a web app built in Streamlit for user interaction.  
 
 ### [*ETL Process*](https://github.com/cristianBMJ/Process_ETL)  
 *BigQuery | Airflow | Testing*  
